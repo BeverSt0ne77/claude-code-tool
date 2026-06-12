@@ -6,7 +6,8 @@
       "Edit",
       "Glob",
       "Grep",
-      "Bash(rm *)"
+      "Bash(rm *)",
+      "Bash(cmd *)"
     ]
   },
   "hooks": {
